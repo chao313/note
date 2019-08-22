@@ -1,0 +1,14 @@
+
+kafka dev   http://10.202.16.136:18080/clusters/kafka-test/topics
+kafka prod  http://10.200.4.138:9000/clusters/kafka-master/topics
+HbaseWeb Dev http://10.202.16.10:48134/index
+HabseWeb Pro http://10.200.3.138:48237/index
+软件仓库 http://win2003-x64-vs1/build/#/
+禅道     http://smart.wind.com.cn/zentaopms/www/index.php?m=my&f=index
+SevenSvn http://techsrv.wind.com.cn:8080/svn/Src/Wind.WDG.StructureBusiness.Seven/
+OverSeaSvn http://techsrv.wind.com.cn:8080/svn/Src/Wind.BDG.OverseaDataHandler/
+SSSvn      http://techsrv.wind.com.cn:8080/svn/Src/Wind.BDG.StructureService/
+ES Prod  http://10.200.2.245:9200/_plugin/head/
+doc Svn http://techsrv.wind.com.cn:8080/svn/WindRes/Management/ENT/DATA7/Documents/
+
+

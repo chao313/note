@@ -1,0 +1,3 @@
+##delete
+curl -XDELETE http://10.202.16.9:9200/tb_object_0088/tb_object_0088/<0088的objectId>
+

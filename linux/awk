@@ -1,0 +1,8 @@
+## 去除某一列
+awk ' { $5=null;print $0 }
+
+## 去除重复行
+awk '!a[$0]++'
+
+## 换行 printf 不会换行， print会自动换行
+awk '{print $0}' 

@@ -1,0 +1,4 @@
+##0088
+select * from WIND.TB_OBJECT_0088
+select * from WIND.TB_OBJECT_0088  order by RP_GEN_DATETIME
+select * from WIND.TB_OBJECT_0088  order by SEQID DESC
