@@ -1,0 +1,32 @@
+Mississipp原始库入库规则,,,,
+DETAIL-Name History,,,,
+对应中文名称   ,   原始库字段名              ,     提取规则                      , 样例                      ,     备注
+名称           ,   Name                      ,     Name                          , Nyke's Photography LLC    ,     会存在多条记录
+名称类型       ,   Name Type                 ,     Name Type                     , Legal                     ,     
+------------------------------------------------------------------------------------------
+DETAIL-Business Information,,,,
+公司类型       ,   Business Type             ,     Business Type               ,     Limited Liability Company    ,     
+公司ID         ,   Business ID               ,     Business ID                 ,     1144541    ,     
+状态           ,   Status                    ,     Status                      ,     Good Standing    ,     
+生效日期       ,   Effective Date            ,     Effective Date              ,     04/23/2018    ,     
+公司注册州     ,   State of Incorporation    ,     State of Incorporation      ,     Mississippi    ,     
+主要办事处地址 ,   Principal Office Address  ,     Principal Office Address    ,     NO PRINCIPAL OFFICE ADDRESS FOUND    ,     
+------------------------------------------------------------------------------------------
+DETAIL-Registered Agent,,,,
+代理人名称     ,   Name                      ,                                 ,     "CORPORATE CREATIONS NETWORK    ,      INC
+232 MARKET ST #1600
+FLOWOOD        ,       MS 39232"    ,     
+------------------------------------------------------------------------------------------
+DETAIL-Officers & Directors,,,,
+人名           ,     Name    ,     Name    ,     "Nylah  Aeriona  Selmon
+704 Blackberry Dr.
+Kosciusko     ,       MS 3909"    ,     会存在多条记录
+职务          ,     Title    ,     Title    ,     Manager    ,     
+------------------------------------------------------------------------------------------
+documents,,,,
+文件类型代码   ,     FilingTypeName          ,     FilingTypeName               ,     Formation Form    ,     会存在多条记录
+文件日期       ,     FiledDate               ,     FiledDate                    ,     4/17/2018 8:55:40 AM    ,     
+文件描述       ,     Description             ,     Description                  ,     Annual Report For MS FIREARMS TRAINING LLC    ,     
+参考文献       ,     Referenece              ,     Referenece                   ,     TRUE    ,     
+文件ID         ,     FilingId                ,     FilingId                     ,     771ba031-7ce5-4e25-8bc8-9b2b7fb3b666    ,     
+状态           ,     Status                  ,     Status                       ,     Filed    ,     

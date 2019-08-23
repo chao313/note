@@ -10,5 +10,7 @@ OverSeaSvn http://techsrv.wind.com.cn:8080/svn/Src/Wind.BDG.OverseaDataHandler/
 SSSvn      http://techsrv.wind.com.cn:8080/svn/Src/Wind.BDG.StructureService/
 ES Prod  http://10.200.2.245:9200/_plugin/head/
 doc Svn http://techsrv.wind.com.cn:8080/svn/WindRes/Management/ENT/DATA7/Documents/
-
+ykun svn http://techsrv.wind.com.cn:8080/svn/WindRes/Management/GOV/TECH2/Documents/文件交换/企业舆情/kyu
+ykun svn : kyu
+ykun svn : fish@123
 
