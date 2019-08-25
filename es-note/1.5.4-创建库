@@ -1,0 +1,13 @@
+1.5.4 创建库 创建索引
+  1.请求URL 
+    模板:curl -XPUT http://<ip>:<port>/<index>
+    举例:curl -XPUT http://39.107.236.187:9200/myindex3
+  2.请求成功的返回值:
+   {"acknowledged":true,"shards_acknowledged":true,"index":"myindex4"}
+  3.查询所有的索引:
+    模板:curl -XGET http://<ip>:<port>/_cat/indices
+    举例:curl -XGET http://39.107.236.187:9200/_cat/indices
+         yellow open index    u4YljD6TTXaSWrjFduDiDA 5 1 0 0 1.3kb 1.3kb
+         yellow open myindex  zZAUqxzCQjeetrzMkrS_-w 1 1 0 0  283b  283b
+  4.注意: 
+    4.1 索引名称只能小写 
