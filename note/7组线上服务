@@ -1,8 +1,1 @@
-地区	        基础应用名称	        原始结构化名称	                        业务结构化名称	                        原始Topic 	     业务Topic 	       策略ID 	       所在IP 	     备注 								
-美国各州	Wind.BDG.OverseaData	Wind.BDG.OverseaData.ORG.USA1	        Wind.BDG.OverseaData.Struct.USA1	TP_01009401	     TP_01009404	MGMLL,MGJZ,…	无	     美国各州，USA1中存放15个策略ID		
-日本	        Wind.BDG.OverseaData	Wind.BDG.OverseaData.ORG.Japan	        Wind.BDG.OverseaData.Struct.Japan	TP_01008801 	     TP_01008803 	JPQY	        10.200.7.178 										
-新加坡	        Wind.BDG.OverseaData	Wind.BDG.OverseaData.ORG.Singapore	Wind.BDG.OverseaData.Struct.Singapore	TP_01008601 	     TP_01008603 	SGPQY	        10.200.7.178 										
-台湾	        Wind.BDG.OverseaData	Wind.BDG.OverseaData.ORG.Taiwan	        Wind.BDG.OverseaData.Struct.Taiwan	TP_01008301 	     TP_01008303 	TWQY	        10.200.6.125										
-英国	        Wind.BDG.OverseaData	无                                  	Wind.BDG.OverseaData.Struct.British	 无	             TP_01007101        YGQY	        10.200.7.178										
-香港	        Wind.BDG.OverseaData	无	                                Wind.BDG.OverseaData.Struct.Hongkong	 无	             TP_01005601 	XGQY 	        10.200.6.157 										
-美国肯塔基	Wind.BDG.OverseaData	无	                                Wind.BDG.OverseaData.Struct.Kentucky	 无	             TP_01007201 	MGKTJ	        10.200.6.125 	                                   
+
